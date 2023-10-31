@@ -1,0 +1,22 @@
+#side-menu h1 {
+    width: fit-content;
+    padding: 5px;
+    margin: 5px;
+}
+
+#side-menu p{
+   margin: none ; 
+}
+
+.menu{
+    margin: 10px;
+    text-align: center;
+    border: #fdb4eb 2px solid;
+    text-shadow: 1px 3px 4px #fdb4eb; 
+    padding: 5px;
+}
+
+.menu-a{
+    color: black;
+    text-decoration: none;
+}

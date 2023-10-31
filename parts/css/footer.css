@@ -1,0 +1,22 @@
+/* common */
+.footer-body {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: #fdb4eb;
+}
+
+/* PC */
+.copy-light {
+    text-align: center;
+}
+
+/* tablet */
+@media screen and (max-width: 960px) {
+
+}
+
+/* mobile */
+@media screen and (max-width: 520px) {
+
+}
