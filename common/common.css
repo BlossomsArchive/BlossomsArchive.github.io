@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+JP&display=swap');
+
+* {
+    font-family: 'IBM Plex Sans JP', sans-serif;
+}
+
 body {
     margin: 0;
     position: relative;
