@@ -1,12 +1,13 @@
 /* common */
 .footer-body {
-    width: 100vw;
+    width: 100%;
     background: #fdb4eb;
 }
 
 /* PC */
 .copy-light {
     text-align: center;
+    width: 100vw;
 }
 
 /* tablet */
